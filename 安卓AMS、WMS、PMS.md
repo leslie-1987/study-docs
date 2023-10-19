@@ -126,7 +126,7 @@ ApplicationThreadProxy.scheduleStopActivity()
 ActivityThread.handleStopActivity()
 ActivityThread.performStopActivityInner()
 2.5:AMS的设计思想
-AMS也用到了设计思想，主要是代理模式。关于代理模式这里就不再讲解，参考《Android源码设计模式》第18章。
+AMS也用到了设计思想，主要是代理模式。
 
 ![1697699127106](C:\Users\xiaolei1.shen\AppData\Roaming\Typora\typora-user-images\1697699127106.png)
 
